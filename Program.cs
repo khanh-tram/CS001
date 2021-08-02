@@ -18,7 +18,7 @@ namespace CS001_HelloWorld
 
             Console.WriteLine("local");
             
-            Console.WriteLine("server");
+            Console.WriteLine("server ngon");
             
             Console.ReadKey();
         }
