@@ -15,6 +15,8 @@ namespace CS001_HelloWorld
             Console.WriteLine("2");
             
             Console.WriteLine("4");
+
+            Console.WriteLine("local");
             
             Console.WriteLine("server");
             
