@@ -6,8 +6,9 @@ namespace CS001_HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            Console.WriteLine("Xin chao than dong!");
+            
+            Console.ReadKey();
         }
     }
 }
