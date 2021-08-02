@@ -7,8 +7,10 @@ namespace CS001_HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Xin chao than dong!");
-            
+
             Console.WriteLine("Vinh yeu Tram!");
+
+            Console.WriteLine("1");
             
             Console.WriteLine("2");
             
