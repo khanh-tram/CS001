@@ -20,7 +20,7 @@ namespace CS001_HelloWorld
             
             Console.WriteLine("server ngon");
             
-            Console.WriteLine("tram dep");
+            Console.WriteLine("tram ngon");
             
             Console.ReadKey();
         }
