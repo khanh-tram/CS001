@@ -8,6 +8,8 @@ namespace CS001_HelloWorld
         {
             Console.WriteLine("Xin chao than dong!");
             
+            Console.WriteLine("Vinh yeu Tram!");
+            
             Console.ReadKey();
         }
     }
