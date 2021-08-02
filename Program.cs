@@ -10,6 +10,8 @@ namespace CS001_HelloWorld
             
             Console.WriteLine("Vinh yeu Tram!");
             
+            Console.WriteLine("2");
+            
             Console.ReadKey();
         }
     }
