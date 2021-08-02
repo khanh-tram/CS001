@@ -16,6 +16,8 @@ namespace CS001_HelloWorld
             
             Console.WriteLine("4");
             
+            Console.WriteLine("server");
+            
             Console.ReadKey();
         }
     }
